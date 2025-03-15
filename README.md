@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hey, I'm Sadiq Wahid Tugoo</h1>
   <h3>Computer Science Enthusiast | RV College of Engineering, Bangalore 🌟</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00DDEB¢er=true&vCenter=true&width=435&lines=Salesforce Dev+%7C+Tech+Explorer+%7C+Design+Rookie" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00DDEB¢er=true&vCenter=true&width=435&lines=Creative+Coder+%7C+Salesforce+Dev+%7C+Design+Rookie" alt="Typing SVG" />
 </div>
 
 <br>
@@ -15,7 +15,7 @@
 
 ### 🌌 About Me
 - 🌱 I’m a **Computer Science** student blending **logic** with **creativity** to build innovative solutions.
-- 🚀 Passionate about mastering **algorithms**, exploring **new tech stacks**, and dabbling in **modern design**.
+- 🚀 Passionate about mastering **algorithms**, excelling as a **Salesforce Dev**, and dabbling in **modern design**.
 - 📩 Reach me at **sadiqwahidtugoo@gmail.com** (update with your email).
 
 <div align="center">
@@ -47,7 +47,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,mysql,nodejs,react,pandas,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,mysql,nodejs,react,pandas,git,github,salesforce" alt="Tech Stack" />
 </p>
 
 <div align="center">
