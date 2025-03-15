@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="https://your-image-host.com/sadiq-banner.gif" alt="Sadiq Wahid Tugoo" width="600px" style="border-radius: 15px;" />
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Tech Vibes" width="400px" style="border-radius: 15px;" />
   <p><b>Visitor Count</b> <br> <img src="https://profile-counter.glitch.me/SadiqWahidTugoo/count.svg" /></p>
 </div>
 
@@ -18,28 +18,28 @@
 - 🚀 Passionate about mastering **algorithms**, exploring **new tech stacks**, and dabbling in **modern design**.
 - 📩 Reach me at **sadiqwahidtugoo@gmail.com** (update with your email).
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300px" />
+</div>
+
 ---
 
-### 🎨 Fun Facts About Sadiq
-- **Adventure Seeker:** Love trekking through nature’s toughest trails.  
-- **Tech Tinkerer:** Always experimenting with the latest tools and languages.  
-- **Design Newbie:** Diving into UI/UX with a fresh, eager perspective.  
-- **Lifelong Learner:** Addicted to courses, coding challenges, and peer collabs.  
-- **Wanderlust:** Ready to explore new destinations at a moment’s notice.  
-- **Problem Solver:** Thrive on cracking complex challenges with clever solutions.
+### 🌟 Cool Facts About Me
+- **Code Wizard:** I turn coffee into code and bugs into features.  
+- **Gadget Geek:** Obsessed with the latest tech toys and frameworks.  
+- **Pixel Pusher:** Crafting sleek designs one pixel at a time.  
+- **Challenge Crusher:** I live for coding marathons and hackathons.  
+- **Cosmic Thinker:** Always dreaming up ideas that are out of this world.
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sadiq-wahid-tugoo/" target="_blank">
+  <a href="https://linkedin.com/in/sadiq-wahid-9a9901228" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>  
-  <a href="https://leetcode.com/u/sadiqwahidtugoo/" target="_blank">
+  <a href="https://leetcode.com/u/sadiq_wahid/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>  
-  <a href="https://www.naukri.com/code360/profile/sadiqtugoo" target="_blank">
-    <img src="https://img.shields.io/badge/CodingNinjas-FF5722?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" />
   </a>
 </p>
 
@@ -49,6 +49,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,mysql,nodejs,react,pandas,git,github" alt="Tech Stack" />
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKz2b3wyk65gIMU/giphy.gif" alt="Tools GIF" width="300px" />
+</div>
 
 ---
 
@@ -75,10 +79,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SadiqWahidTugoo&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Trophy GIF" width="300px" />
+</div>
+
 ---
 
 <div align="center">
-  <p><b>Let’s build something amazing together!</b></p>
+  <p><b>Let’s build something epic together!</b></p>
   <a href="https://twitter.com/sadiqtugoo" target="_blank">
     <img src="https://img.shields.io/twitter/follow/sadiqtugoo?style=social&logo=twitter" alt="Twitter Follow" />
   </a>
