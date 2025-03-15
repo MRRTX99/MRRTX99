@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hey, I'm Sadiq Wahid Tugoo</h1>
   <h3>Computer Science Enthusiast | RV College of Engineering, Bangalore 🌟</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=500&color=00FFBB¢er=true&vCenter=true&width=500&lines=Creative+Coder;Salesforce+Dev;Design+Rookie" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=500&color=00FFBB¢er=true&vCenter=true&width=500&lines=Creative+Coder+^_^;Salesforce+Developer;Design+Rookie" alt="Typing SVG" />
 </div>
 
 <br>
