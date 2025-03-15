@@ -1,13 +1,13 @@
 <div align="center">
   <h1>👋 Hey, I'm Sadiq Wahid Tugoo</h1>
   <h3>Computer Science Enthusiast | RV College of Engineering, Bangalore 🌟</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00DDEB&center=true&vCenter=true&width=435&lines=Creative+Coder+%7C+Salesforce+Dev+%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=500&color=00FFBB&center=true&vCenter=true&width=500&lines=Creative+Coder;Salesforce+Developer" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/8Q8z8g5.gif" alt="Tech Matrix" width="400px" style="border-radius: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matrix/matrix-original.gif" alt="Tech Matrix" width="400px" style="border-radius: 15px;" />
   <p><b>Visitor Count</b> <br> <img src="https://profile-counter.glitch.me/SadiqWahidTugoo/count.svg" /></p>
 </div>
 
@@ -19,7 +19,7 @@
 - 📩 Reach me at **sadiqwahidtugoo@gmail.com**.
 
 <div align="center">
-  <img src="https://i.imgur.com/5y5X5gM.gif" alt="Code Flow" width="300px" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Code Flow" width="300px" />
 </div>
 
 ---
@@ -51,34 +51,25 @@
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/3X3X3kM.gif" alt="Tech Tools" width="300px" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Tech Tools" width="100px" />
 </div>
 
 ---
 
-### 📊 My GitHub Universe
+### 💡 Tech Inspiration
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadiqWahidTugoo&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&cache_seconds=3600" alt="Sadiq's Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqWahidTugoo&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&cache_seconds=3600" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&duration=4000&color=FF007A&center=true&vCenter=true&width=600&lines=Code+is+poetry.;Innovation+drives+progress.;Build+what+matters." alt="Quote Rotator" />
 </div>
 
 ---
 
-### 🔥 Modern Trackers
-<div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=SadiqWahidTugoo&theme=vision-friendly-dark&hide_border=true&background=0d1117&cache_seconds=3600" alt="Streak Stats" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadiqWahidTugoo&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/7y7y7gN.gif" alt="Data Flow" width="300px" />
-</div>
+### 📌 Pinned Projects
+<p align="center">
+  Check out my top repositories below! 🚀 Pin your favorites on GitHub to showcase them here.
+</p>
 
 ---
 
 
-<br>
 
 <p align="center">Crafted with 💻 by <a href="https://github.com/SadiqWahidTugoo">Sadiq Wahid Tugoo</a> | Last Updated: March 15, 2025</p>
