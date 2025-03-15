@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hey, I'm Sadiq Wahid Tugoo</h1>
   <h3>Computer Science Enthusiast | RV College of Engineering, Bangalore 🌟</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00DDEB&center=true&vCenter=true&width=435&lines=Creative+Coder+%7C+Salesforce+Dev+%7C+Design+Rookie" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00DDEB&center=true&vCenter=true&width=435&lines=Creative+Coder+%7C+Salesforce+Dev+%7C" alt="Typing SVG" />
 </div>
 
 <br>
@@ -16,7 +16,7 @@
 ### 🌌 About Me
 - 🌱 I’m a **Computer Science** student blending **logic** with **creativity** to build innovative solutions.
 - 🚀 Passionate about mastering **algorithms**, excelling as a **Salesforce Dev**, and dabbling in **modern design**.
-- 📩 Reach me at **sadiqwahidtugoo@gmail.com** (update with your email).
+- 📩 Reach me at **sadiqwahidtugoo@gmail.com**.
 
 <div align="center">
   <img src="https://i.imgur.com/5y5X5gM.gif" alt="Code Flow" width="300px" />
@@ -78,23 +78,6 @@
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SadiqWahidTugoo&theme=monokai&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
-
-<div align="center">
-  <img src="https://i.imgur.com/9y9y9kP.gif" alt="Tech Success" width="300px" />
-</div>
-
----
-
-<div align="center">
-  <p><b>Let’s build something epic together!</b></p>
-  <a href="https://twitter.com/sadiqtugoo" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/sadiqtugoo?style=social&logo=twitter" alt="Twitter Follow" />
-  </a>
-</div>
 
 <br>
 
