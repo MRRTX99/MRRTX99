@@ -1,13 +1,13 @@
 <div align="center">
   <h1>👋 Hey, I'm Sadiq Wahid Tugoo</h1>
   <h3>Computer Science Enthusiast | RV College of Engineering, Bangalore 🌟</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00DDEB&center=true&vCenter=true&width=435&lines=Creative+Coder+%7C+Tech+Explorer+%7C+Design+Rookie" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00DDEB¢er=true&vCenter=true&width=435&lines=Salesforce Dev+%7C+Tech+Explorer+%7C+Design+Rookie" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Tech Vibes" width="400px" style="border-radius: 15px;" />
+  <img src="https://media.giphy.com/media/26AHvF2p5prJSA4xm/giphy.gif" alt="Tech Matrix" width="400px" style="border-radius: 15px;" />
   <p><b>Visitor Count</b> <br> <img src="https://profile-counter.glitch.me/SadiqWahidTugoo/count.svg" /></p>
 </div>
 
@@ -19,7 +19,7 @@
 - 📩 Reach me at **sadiqwahidtugoo@gmail.com** (update with your email).
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Code Flow" width="300px" />
 </div>
 
 ---
@@ -51,36 +51,40 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKz2b3wyk65gIMU/giphy.gif" alt="Tools GIF" width="300px" />
+  <img src="https://media.giphy.com/media/IdyAQJVN2kQZKmMg4/giphy.gif" alt="Tech Tools" width="300px" />
 </div>
 
 ---
 
 ### 📊 My GitHub Universe
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadiqWahidTugoo&show_icons=true&theme=nebula&hide_border=true&bg_color=0d1117" alt="Sadiq's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SadiqWahidTugoo&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117" alt="Sadiq's Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqWahidTugoo&layout=compact&theme=nebula&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqWahidTugoo&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
 
-### 🔥 Streak & Contributions
+### 🔥 Modern Trackers
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiqWahidTugoo&theme=nebula&hide_border=true&background=0d1117" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiqWahidTugoo&theme=vision-friendly-dark&hide_border=true&background=0d1117" alt="Streak Stats" />
   <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadiqWahidTugoo&theme=nebula" alt="Profile Details" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadiqWahidTugoo&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Data Flow" width="300px" />
 </div>
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SadiqWahidTugoo&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SadiqWahidTugoo&theme=monokai&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Trophy GIF" width="300px" />
+  <img src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" alt="Tech Success" width="300px" />
 </div>
 
 ---
